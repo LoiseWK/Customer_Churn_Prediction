@@ -104,4 +104,4 @@ This project successfully predicts customer churn and provides actionable insigh
 ## Resources
 - Dataset: [Link ](WA_Fn-UseC_-Telco-Customer-Churn.csv)
 - Notebook: [Link ](Customer_Churn.ipynb)
-- Documentation: 
+- Presentation: [Link](Customer_Churn_Project_Presentation.pdf)
